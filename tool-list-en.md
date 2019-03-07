@@ -13,7 +13,6 @@
 * [Place Link Text Here](http://linkhere.com) 
  -->
 
-
 ### Collaboration
 
 * [G-Suite](https://gsuite.google.com/) (free after application is approved)
@@ -30,4 +29,7 @@
 
 * [PostgreSql](https://www.postgresql.org/)
 
+### Developer Tools
 
+* [VS Code](https://code.visualstudio.com/)
+* [Git Kracken](https://www.gitkraken.com/)
