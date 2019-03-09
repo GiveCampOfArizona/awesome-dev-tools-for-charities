@@ -1,17 +1,17 @@
 ### Index
 
-* [Application Hosting](#apphosting)
+* [Application/Web Hosting](#apphosting)
 * [Collaboration Tools](#collaboration)
 * [Database](#database)
-  * [Cloud](#clouddb)
+  * [Cloud](#cloudbaseddb)
   * [RDBMS](#rdbms)
-* [Web Hosting](#webhosting)
 
+### AppHosting
 
-<!-- ### apphosting
+* [Heroku](https://www.heroku.com/free)
+* [Pivotal Web Services](http://run.pivotal.io) (free after application is approved)
+* [Microsoft Azure](http://azure.com)  (free after application is approved)
 
-* [Place Link Text Here](http://linkhere.com) 
- -->
 
 ### Collaboration
 
@@ -20,7 +20,7 @@
 
 ### Database
 
-#### CloudDb
+#### CloudBasedDB
 
 * [AirTable](http://airtable.com)
 * [Firebase](https://firebase.google.com/)
@@ -34,3 +34,4 @@
 
 * [VS Code](https://code.visualstudio.com/)
 * [Git Kracken](https://www.gitkraken.com/)
+
