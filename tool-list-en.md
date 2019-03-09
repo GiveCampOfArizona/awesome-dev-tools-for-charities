@@ -1,4 +1,4 @@
-### Index
+## Index
 
 * [Application/Web Hosting](#apphosting)
 * [Collaboration Tools](#collaboration)
@@ -29,9 +29,11 @@
 #### RDBMS
 
 * [PostgreSql](https://www.postgresql.org/)
+* [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
+
 
 ### Developer Tools
 
-* [VS Code](https://code.visualstudio.com/)
 * [Git Kracken](https://www.gitkraken.com/)
-
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/community/)
